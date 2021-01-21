@@ -1,8 +1,8 @@
 {
   "name": "webapp",
   "version": "0.0.1",
-  "description": "A Quasar Framework app",
-  "productName": "Quasar App",
+  "description": "Mahdi HSOUMI Portfolio",
+  "productName": "Mahdi HSOUMI",
   "author": "Mahdi <mahdihsoumi@gmail.com>",
   "private": true,
   "scripts": {
@@ -14,9 +14,11 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
+    "animate.css": "^4.1.1",
     "axios": "^0.18.1",
     "core-js": "^3.6.5",
     "quasar": "^1.0.0",
+    "vanilla-tilt": "^1.7.0",
     "vue-i18n": "^8.0.0"
   },
   "devDependencies": {
